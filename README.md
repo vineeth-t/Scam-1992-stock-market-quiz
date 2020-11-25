@@ -5,8 +5,9 @@
    <p>
     A CLI Quiz based on Stock Market.</br>
     language used - Node.js</br>
+     <p>resources :</p>
     chalk for styling the text output 
-    resources : <a href='https://www.npmjs.com/package/chalk'>NPM chalk</a>
+    <a href='https://www.npmjs.com/package/chalk'>NPM chalk</a>
     </br>
     repl.it used for writing for cli app :<a href="https://repl.it/~">repl.it</a>
 
